@@ -1,3 +1,7 @@
 this is the 3rd file
 add new line
+<<<<<<< HEAD
 add new style
+=======
+add new feature
+>>>>>>> new logout feature
